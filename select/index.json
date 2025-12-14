@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "まなざしは光",
+  "base_artist": "Tatsuya Kitani",
+  "createdAt": "2025-12-14T07:37:06.851895Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "まなざしは光",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/01_まなざしは光_キタニタツヤ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "まなざしは光",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/02_まなざしは光_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "まなざしは光 (Paused)",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/03_まなざしは光_(Paused)_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "まなざしは光 - Your Gaze, Crepuscular",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/04_まなざしは光_-_Your_Gaze,_Crepuscular_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "まなざしは光",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_01_まなざしは光_キタニタツヤ.txt"
+    }
+  ]
+}
